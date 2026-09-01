@@ -1,9 +1,6 @@
 <div align="center">
 
-  <img src="./public/joey-circle.png" width="120" height="120" alt="Joey van der Poel" />
-
-  <br />
-
+  
   [![Status](https://img.shields.io/badge/⚡_Availability-Available_for_freelance_&_small_business_builds-0EA5E9?style=for-the-badge)](https://www.joeyvanderpoel.com/)
 
   # Joey van der Poel
