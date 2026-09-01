@@ -233,7 +233,7 @@ A representation of the multi-model AI pipeline built for **Tracks & Taps**. It 
 
 Got a project idea, mobile app MVP to build, or an administrative bottleneck to automate? Let's connect!
 
-- **📅 Intro Call**: [Schedule on Cal.com](https://www.joeyvanderpoel.com/)
+- **📅 Intro Call**: [Schedule via my website](https://www.joeyvanderpoel.com/)
 - **💼 LinkedIn**: [Joey van der Poel](https://www.linkedin.com/in/joey-van-der-poel-974203302/)
 - **💬 Recommendations**: [View LinkedIn Recommendations](https://www.linkedin.com/in/joey-van-der-poel-974203302/details/recommendations/?detailScreenTabIndex=0)
 - **⏱️ Response Time**: Project quotes delivered within **24 hours**
