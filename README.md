@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./public/joey.jpg" width="120" height="120" style="border-radius: 50%; border: 4px solid #38bdf8;" alt="Joey van der Poel" />
+  <img src="./public/joey-circle.png" width="120" height="120" alt="Joey van der Poel" />
 
   <br />
 
@@ -88,22 +88,13 @@ A representation of the multi-model AI pipeline built for **Tracks & Taps**. It 
 
 <table width="100%">
   <tr>
-    <th width="45%">📥 Raw Input (<code>tours.csv</code>)</th>
-    <th width="55%">📤 Structured Production JSON Output</th>
+    <th width="50%" align="left">📥 Raw Input (<code>tours.csv</code>)</th>
+    <th width="50%" align="left">📤 Structured Production JSON Output</th>
   </tr>
   <tr>
-    <td valign="top">
-
-```csv
-city,theme,stops,pubgolf,bingo,lang,instructions
-"Rome","Ancient Ruins",30,YES,YES,EN,"Focus on Colosseum"
-```
-
-    </td>
-    <td valign="top">
-
-```json
-{
+    <td valign="top" width="50%"><pre><code>city,theme,stops,pubgolf,bingo,lang,instructions
+"Rome","Ancient Ruins",30,YES,YES,EN,"Focus on Colosseum"</code></pre></td>
+    <td valign="top" width="50%"><pre><code>{
   "title": "Rome: Ancient Ruins",
   "theme": "history",
   "pubgolf": true,
@@ -118,10 +109,7 @@ city,theme,stops,pubgolf,bingo,lang,instructions
       }
     }
   ]
-}
-```
-
-    </td>
+}</code></pre></td>
   </tr>
 </table>
 
