@@ -84,14 +84,6 @@ I partner with businesses to design and deploy native mobile experiences and cus
 
 A representation of the multi-model AI pipeline built for **Tracks & Taps**. It ingests raw CSV theme definitions, discovers landmarks, geocodes coordinates, solves Traveling Salesperson Problem (TSP) walking routes, verifies quality, generates engaging narratives, and publishes production-ready tours on autopilot.
 
-### 🔄 Data Transformation Flow
-
-```mermaid
-flowchart LR
-    A[📄 1. CSV Input\ntours.csv | City + Theme] --> B[⚙️ 2. Two-Phase Solver\nAI + Geocoding + TSP Route]
-    B --> C[🚀 3. Production Sync\nPOST JSON -> Supabase DB]
-```
-
 ### 💻 Input vs Output Payload
 
 <table width="100%">
